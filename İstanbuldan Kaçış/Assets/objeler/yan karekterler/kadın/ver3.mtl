@@ -1,0 +1,44 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 08.10.2015 15:17:08
+
+newmtl Mat_Jane_002__Female_diffuse_new_png
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 0.4704 0.4704 0.4704
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Female_diffuse_new.png
+	map_Kd Female_diffuse_new.png
+
+newmtl Material441
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6943 0.6943 0.6943
+	Kd 0.7489 0.7489 0.7489
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Skater_dress-pink_b.jpg
+	map_Kd Skater_dress-pink_b.jpg
+
+newmtl Material442
+	Ns 5.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.6943 0.6943 0.6943
+	Kd 0.7489 0.7489 0.7489
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka Skater_dress-pink_b_v2.jpg
+	map_Kd Skater_dress-pink_b_v2.jpg
